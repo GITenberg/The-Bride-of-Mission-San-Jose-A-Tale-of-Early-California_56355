@@ -1,11 +1,16 @@
 _repo: The-Bride-of-Mission-San-Jose-A-Tale-of-Early-California_56355
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56355-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Cull, John Augustine
     gutenberg_agent_id: '48799'
     url: http://www.gutenberg.org/2009/agents/48799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56355#The-Bride-of-Mission-San-Jose-A-Tale-of-Early-California
 gutenberg_issued: '2018-01-10'
 gutenberg_type: Text
 identifiers:
